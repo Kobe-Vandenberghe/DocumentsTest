@@ -1,3 +1,3 @@
 # SalesOpsProcedures
 
-Write document content here...
+This document contains all the guidelines for sales people to follow
