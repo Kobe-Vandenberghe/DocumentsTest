@@ -7,3 +7,4 @@ This is some placeholder text in folder 1.
 - Integer nec odio
 - test
 - comment from Ben
+- test
