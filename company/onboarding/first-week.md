@@ -26,6 +26,8 @@ Day 3: Learn the project lifecycle and the role of project leads in day-to-day c
 Day 4: Review the [Security Training](security-training.md) material and confirm access setups.
 Day 5: Complete the onboarding checklist and book a follow-up conversation with the manager.
 
+> Note: The checklist link below should be updated in the next revision once the final onboarding tracker is approved.
+
 ## What new hires should read
 
 - [Mission and Vision](../company/mission-and-vision.md)

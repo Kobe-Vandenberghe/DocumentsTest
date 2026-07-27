@@ -28,6 +28,10 @@ Escalate when a project misses a milestone without a recovery plan, a client rai
 3. Align on a response plan and determine whether a decision is needed from the client.
 4. Record the outcome in the project workspace.
 
+## Escalation examples
+
+Examples include repeated missed milestones for the Nova Retail inventory platform or a sudden confidentiality concern on the BrightPath Health integration project. In both cases, the response should remain calm, factual, and visible to the appropriate stakeholders.
+
 ## Practical note
 
 The company has recently started using a more formal client escalation note for larger engagements, but some older client relationships still rely on lighter updates. That creates a few inconsistencies in practice, especially for projects that involve the Arden Finance compliance dashboard.

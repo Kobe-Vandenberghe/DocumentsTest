@@ -33,6 +33,10 @@ The company historically used weekly status meetings for most projects, but some
 
 A project should be escalated when a milestone slips without a recovery plan, when a client is repeatedly unhappy with communication, or when quality concerns start affecting delivery confidence. The project lead should then decide whether the issue is best handled through the normal project process or the formal [Escalation Process](../clients/escalation-process.md).
 
+## Health indicators
+
+The team should track a small set of indicators for each active project: milestone confidence, open blocker count, client communication cadence, and the number of unresolved quality comments. These indicators should be reviewed during the project status meeting and captured in the shared project note.
+
 ## Related documents
 
 - [Project Delivery Process](project-delivery-process.md)

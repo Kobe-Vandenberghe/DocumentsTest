@@ -25,6 +25,7 @@ Northstar Digital relies on a mixed model of explicit ownership and shared accou
 - Project Manager: keeps delivery moving and coordinates stakeholder communication.
 - People Operations Lead: manages onboarding, development, and internal people processes.
 - Security Officer: owns policy guidance and incident escalation oversight.
+- People Operations Lead: also coordinates remote work expectations and onboarding support.
 
 ## Shared ownership areas
 
