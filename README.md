@@ -9,6 +9,7 @@ tags:
   - readme
   - company
   - testing
+  - readme
 appliesTo:
   - All employees
 ---
